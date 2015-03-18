@@ -2,7 +2,7 @@
 
 
 ##  Prácticas
-	[Práctica 1](http://swap-ugr.blogspot.com.es/)
+	[Práctica 1](http://google.com)
 
 
 	[Práctica 2]
