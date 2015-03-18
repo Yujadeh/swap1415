@@ -2,7 +2,7 @@
 
 
 ##  Prácticas
-	[Práctica 1](http://github.com/Yujadeh/swap1415/blob/master/Prácticas/p1/p1.md)
+	[Práctica 1](http://swap-ugr.blogspot.com.es/)
 
 
 	[Práctica 2]
