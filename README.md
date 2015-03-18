@@ -2,7 +2,7 @@
 
 
 ##  Prácticas
-	[Pŕactica 1](https://github.com/Yujadeh/swap1415/blob/master/Pr%C3%A1cticas/p1/p1.md)
+	[Pŕactica 1](https://github.com/Yujadeh/swap1415/blob/master/Prácticas/p1/p1.md)
 
 
 	[Práctica 2]
