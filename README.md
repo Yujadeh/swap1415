@@ -13,3 +13,7 @@ En este repositorio iré subiendo las prácticas de la asignatura Servidores Web
 * [Programación de tareas](https://github.com/Yujadeh/swap1415/blob/master/Pr%C3%A1cticas/p2/p2.md#programaci%C3%B3n-de-tareas)
 
 ##  Preguntas tipo test
+### [Preguntas tema 1](https://github.com/Yujadeh/swap1415/blob/master/preguntastest/tema1.txt)
+### [Preguntas tema 2](https://github.com/Yujadeh/swap1415/blob/master/preguntastest/tema2.txt)
+### [Preguntas tema 3](https://github.com/Yujadeh/swap1415/blob/master/preguntastest/tema3.txt)
+### [Preguntas tema 4](https://github.com/Yujadeh/swap1415/blob/master/preguntastest/tema4.txt)
