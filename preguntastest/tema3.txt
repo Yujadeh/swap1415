@@ -1,0 +1,11 @@
+1. En una configuración DMZ simple, ¿Que no supone un problema?:
+a) Los servidores y máquinas tras el cortafuegos aún comparten ancho de banda.
+b) Los servidores están contectados directamente a Internet.
+c) Si un servidor se viera comprometido, los recursos restantes podrían ser atacados.
+d) El cortafuegos puede ser un cuello de botella.
+Respuesta Correcta: c)
+2. La subred trasera debe... (Marcar opción incorrecta)
+a) Conectarse directamente a Internet.
+b) Conectarse a servidores single-NIC.
+c) Conectarse desde subredes seguras.
+d) Dejar acceso a ciertas aplicaciones y servicios a través de su cortafuegos.

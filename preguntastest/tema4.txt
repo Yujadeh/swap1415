@@ -1,0 +1,12 @@
+1. ¿Por qué se dejaron de usar los balanceadores de carga?:
+a) Debido a su elevado coste y mantenimiento.
+b) No es una tecnología que se haya dejado de usar.
+c) Debido al uso de memoria compartida.
+d) Tanto la opción a y c son correctas
+Respuesta Correcta: b)
+2. ¿Cuando es bueno usar un algoritmo de ponderación?
+a) Cuando un algoritmo basado en el menor número de conexiones falle.
+b) Cuando un algoritmo Roun-Robin falle.
+c) Las dos opciones anteriores son correctas.
+d) Cuando vayamos a usar contenido estático.
+Respuesta Correcta: c)

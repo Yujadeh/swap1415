@@ -1,9 +1,9 @@
 # Servidores Web de Altas Prestaciones
-
+En este repositorio iré subiendo las prácticas de la asignatura Servidores Web del doble grado en Informática y Matemáticas de la UGR
 
 ##  Prácticas
 
-<<<<<<< HEAD
+
 ###[Práctica 1](https://github.com/Yujadeh/swap1415/blob/master/Pr%C3%A1cticas/p1/p1.md#pr%C3%A1ctica-1-instalaci%C3%B3n-y-configuraci%C3%B3n-de-m%C3%A1quinas-virtuales)
 
 

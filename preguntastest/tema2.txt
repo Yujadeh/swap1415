@@ -1,0 +1,12 @@
+1. En la ampliación vertical...
+a) Se añaden más máquinas para mejorar el escalado
+b) Se mejoran las redes para una mayor fluidez
+c) Se mejoran los componentes tales como RAM, CPU, etc.
+d) Además de lo anterior también se aplica lo dicho en b)
+Respuesta correcta: c)
+2. Si vamos a monitorizar nuestro servidor para alguna empresa en particular, ¿Qué opción es más apropiada?
+a) Nagios, Clumon o cualquier otro software privado siempre será mejor ya que con ellos, las tareas de monitorizar serán menos tediosas.
+b) El uso de los comandos top,htop, etc hará que no pierdas dinero en software de monitorización.
+c) Un uso mixto de las soluciones anteriores.
+d) Dependiendo de la situación, usaremos una alternativa u otra. Puede que el número de peticiones sea bajo y hagamos perder dinero a la empresa.
+Solucion: a) 
